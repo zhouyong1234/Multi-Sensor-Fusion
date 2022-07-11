@@ -1,3 +1,13 @@
+# 大作业
+
+项目代码放在了project文件夹下，代码细节和测试结果在
+[多传感器融合定位(一) 点云地图构建和基于点云地图定位](https://zhuanlan.zhihu.com/p/537456620)
+[多传感器融合定位(二) 基于滤波+运动约束的定位](https://zhuanlan.zhihu.com/p/537887234)
+[多传感器融合定位(三) 基于预积分的建图](https://zhuanlan.zhihu.com/p/537979907)
+[多传感器融合定位(四) 基于预积分的定位](https://zhuanlan.zhihu.com/p/538240992)
+[多传感器融合定位(五) 不同定位算法绝对轨迹误差对比](https://zhuanlan.zhihu.com/p/539108494)
+
+
 # Multi-Sensor Fusion for Localization & Mapping -- 多传感器融合定位与建图: Capstone Project
 
 深蓝学院多传感器融合定位与建图Capstone Project思路提示.
